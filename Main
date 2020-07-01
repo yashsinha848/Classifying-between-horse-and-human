@@ -1,6 +1,6 @@
 import os
 import zipfile
-
+#the horses and human dataset can be downloaded from https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip
 
 # Directory with our training horse pictures
 train_horse_dir = os.path.join(r'C:\Users\yash\.spyder-py3\Introduction to Tensorflow\Week 4\horses and humans photos\horses')
